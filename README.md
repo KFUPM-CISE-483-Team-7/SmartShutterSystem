@@ -1,2 +1,4 @@
 # SmartShutterSystem
 Smart Shutter System - A power saving shutter control system designed to reduce air-conditioning power consumption by regulating the amount of sunlight.
+
+The purpose of this project is to construct a control system that minimizes power consumption and provides convenience to homeowners using AI/ML. A simple design was implemented for the adaptive smart home system that senses the surrounding environment's temperature, humidity and amount of sunlight. Moreover, the system will adjust the curtains angles using a servo motor to regulate incoming sunlight. The total power consumption will be monitored using a clamp ammeter that is connected with the cooling system. In addition, the system will be utilizing model-free reinforcement learning to adjust the servo-motor angle and cooling system according to the input parameters.
